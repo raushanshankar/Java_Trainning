@@ -1,0 +1,37 @@
+command to start tomcat server:
+/opt/apache-tomcat-7.0.72/bin/startup.sh
+
+
+command to start eclipse neon:
+~/eclipse/eclipse
+
+command to start sql developer:
+sudo /opt/sqldeveloper/sqldeveloper.sh
+
+
+command for sql command line:
+conn SYSTEM
+rosh
+
+command to start mysql:
+mysql -u raushan -p
+
+
+
+set classpath for JDBC program
+
+TO COMPILE----
+javac -cp mysql-connector-java.jar DBConnect.java
+
+TO EXECUTE----
+java -cp mysql-connector-java.jar:. DBConnect
+
+
+
+
+
+
+books:
+head first
+recipe by orielly
+actions series
