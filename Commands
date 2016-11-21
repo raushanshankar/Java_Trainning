@@ -15,6 +15,7 @@ rosh
 
 command to start mysql:
 mysql -u raushan -p
+password: rosh
 
 
 
